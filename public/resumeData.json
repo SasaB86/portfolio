@@ -1,0 +1,105 @@
+{
+  "main": {
+    "name": "Sasha Bocin",
+    "occupation": "JavaScript developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Sasha! I've been coding for 2 years now. As a Frontend developer I've worked for large corporation to help build & scale their companies.",
+    "contactmessage": "Get in touch with me via email",
+    "email": "sasabocin86@gmail.com",
+    "phone": "+381 641368138",
+    "address": {
+      "street": "Vranjevacka 18b",
+      "city": "Zrenjanin",
+      "state": "Serbia",
+      "zip": "23000"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://github.com/SasaB86/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/bocin.sasha/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sasa-bocin-7b8a4415b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sasabocin/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/SasaB86/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Tehnicki fakultet - Mihajlo Pupin",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2010",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Levi9",
+        "title": "JavaScript software developer",
+        "years": "Nov 2019 - Jan 2021",
+        "description": "Developing web apps."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Angular",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid-19 tracker app (React JS)",
+        "category": "",
+        "image": "covidtracker.png",
+        "url": "https://covid-tracking-app-ff614.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sasha is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Working with Sasha has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
