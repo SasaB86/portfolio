@@ -15,7 +15,7 @@
       "zip": "23000"
     },
     "website": "https://www.papareact.com/course",
-    "resumedownload": "https://github.com/SasaB86/",
+    "resumedownload": "./src/CV_2020.pdf",
     "social": [
       {
         "name": "facebook",
